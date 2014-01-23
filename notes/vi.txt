@@ -1,0 +1,4 @@
+move
+down is most common action for moving. So using most special key with raised flag cover the moving.
+J is ok for it. otherside is down, using otherside key:K.
+others: left is left:H, right is right:L
